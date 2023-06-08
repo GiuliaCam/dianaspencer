@@ -1,0 +1,52 @@
+body {
+    background-image: url(sfondogrey.png);
+}
+.blocco img {
+    float: right; 
+    margin-right: 50px;
+}
+.nome {
+    width: 40%;
+    padding-left: 30%;
+    padding-top: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    font-size: 60px;
+}
+h2 {
+    margin-left: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 10px;
+    font-size: xx-large;
+    text-align: center;
+    font-style: oblique;
+}
+hr {
+    height: 1px;
+    background-color: black;
+    border-color: brown;
+    width: 95%;
+}
+#matrimonio, #ultimi, #stile
+  {
+    width: 400px; 
+    height: auto;
+}
+table {
+    padding-top: 4%;
+    margin: auto;
+    border: 0;
+    cellpadding:0;
+}
+table h3
+{
+    text-align: center;
+    padding-top: -1;
+    font-style: oblique;
+    font-size: x-large;
+}
+h3 {
+    padding-top: -1%;
+    text-align: center;
+}
